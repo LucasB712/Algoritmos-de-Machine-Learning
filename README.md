@@ -4,16 +4,16 @@ Curso Aprendizado de Maquina 3°Semestre
 
 # Conteúdos:
 
-Classificação:
--
--
--
--
+# Classificação:
+-Logistic Regression() 
+-Random Forest Classifier()
+-Extra Trees Classifier()
+-SVC
 
 
-Regressão:
--
--
--
--
-=
+# Regressão:
+-Linear Regression()
+-Random Forest Regressor()
+-Extra Trees Regressor()
+-Gradient Boosting Regression
+-SVR
